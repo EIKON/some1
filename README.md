@@ -1,4 +1,4 @@
-meteor_learn
+meteor learn
 ============
 
 some learning from meteor leaderboard
